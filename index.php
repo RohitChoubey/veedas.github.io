@@ -20,56 +20,7 @@
                   </div>
                </div>
             </div>
-            <header id="main-header" data-height-onload="66">
-               <div class="container clearfix et_menu_container">
-                  <div class="logo_container">
-                     <span class="logo_helper"></span>
-                     <a href="index.html">
-                     <img src="wp-content/uploads/2020/12/vedas_new_logo-1.png" width="236" height="122" alt="vedas cure" id="logo" data-height-percentage="54" />
-                     </a>
-                  </div>
-                  <div id="et-top-navigation" data-height="66" data-fixed-height="40">
-                     <nav id="top-menu-nav">
-                        <ul id="top-menu" class="nav">
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10 current_page_item menu-item-282">
-                              <a href="index.html" aria-current="page">HOME</a>
-                           </li>
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-283">
-                              <a href="#">DISEASES</a>
-                           </li>
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2106">
-                              <a href="#">COSMETICS</a>
-                           </li>
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4540">
-                              <a href="#">ESSENTIAL OILS</a>
-                           </li>
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2107">
-                              <a href="#">CONTACT US</a>
-                           </li>
-                        </ul>
-                     </nav>
-                     <div id="et_top_search">
-                        <span id="et_search_icon"></span>
-                     </div>
-                     <div id="et_mobile_nav_menu">
-                        <div class="mobile_nav closed">
-                           <span class="select_page">Select Page</span>
-                           <span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
-                        </div>
-                     </div>
-                  </div>
-                  <!-- #et-top-navigation -->
-               </div>
-               <!-- .container -->
-               <div class="et_search_outer">
-                  <div class="container et_search_form_container">
-                     <form role="search" method="get" class="et-search-form" action="https://vedascure.in/">
-                        <input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />				
-                     </form>
-                     <span class="et_close_search_field"></span>
-                  </div>
-               </div>
-            </header>
+            
             <!-- #main-header -->
             <div id="et-main-area">
                <div id="main-content">
@@ -185,45 +136,41 @@
                                        <div class="et_pb_module et_pb_image et_pb_image_0">
                                           <span class="et_pb_image_wrap has-box-shadow-overlay">
                                              <div class="box-shadow-overlay"></div>
-                                             <img width="500" height="500" src="wp-content/uploads/2021/10/2021-10-10-4.jpg" alt="" title="2021-10-10 (4)" srcset="https://vedascure.in/wp-content/uploads/2021/10/2021-10-10-4.jpg 500w, https://vedascure.in/wp-content/uploads/2021/10/2021-10-10-4-480x480.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 500px, 100vw" class="wp-image-4049" />
+                                             <img width="500" height="500" src="wp-content/uploads/2021/10/2021-10-10-4.png" alt="" title=""  sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 500px, 100vw" class="wp-image-4049" />
                                           </span>
                                        </div>
-                                       <div class="et_pb_module et_pb_image et_pb_image_1">
-                                          <span class="et_pb_image_wrap "><img width="220" height="361" src="wp-content/uploads/2021/01/herbal-remedy_36.png" alt="" title="herbal-remedy_36" srcset="https://vedascure.in/wp-content/uploads/2021/01/herbal-remedy_36.png 220w, https://vedascure.in/wp-content/uploads/2021/01/herbal-remedy_36-64x105.png 64w, https://vedascure.in/wp-content/uploads/2021/01/herbal-remedy_36-183x300.png 183w" sizes="(max-width: 220px) 100vw, 220px" class="wp-image-1773" /></span>
-                                       </div>
+                                       
                                        <div class="et_pb_button_module_wrapper et_pb_button_0_wrapper et_pb_button_alignment_center et_pb_module ">
-                                          <a class="et_pb_button et_pb_button_0 et_animated et_hover_enabled et_pb_bg_layout_light" href="disease/index.html" target="_blank">Diseases WE TREAT</a>
+                                          <a class="et_pb_button et_pb_button_0 et_animated et_hover_enabled et_pb_bg_layout_light" href="disease/index.php" target="_blank">Diseases WE TREAT</a>
                                        </div>
                                        <div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
-                                          <a class="et_pb_button et_pb_button_1 et_pb_bg_layout_light" href="diseases/index.html">View All</a>
+                                          <a class="et_pb_button et_pb_button_1 et_pb_bg_layout_light" href="diseases/index.php">View All</a>
                                        </div>
                                     </div>
                                     <div class="et_pb_column et_pb_column_1_3 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough">
                                        <div class="et_pb_module et_pb_image et_pb_image_2">
-                                          <a href="cosmetics/index.html">
+                                          <a href="">
                                              <span class="et_pb_image_wrap has-box-shadow-overlay">
                                                 <div class="box-shadow-overlay"></div>
-                                                <img width="500" height="500" src="wp-content/uploads/2021/10/vedas-cure-cosmetics.jpg" alt="" title="vedas cure cosmetics" srcset="https://vedascure.in/wp-content/uploads/2021/10/vedas-cure-cosmetics.jpg 500w, https://vedascure.in/wp-content/uploads/2021/10/vedas-cure-cosmetics-480x480.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 500px, 100vw" class="wp-image-4128" />
+                                                <img width="500" height="500" src="wp-content/uploads/2021/10/cosmentic.png" alt="" class="wp-image-4128" />
                                              </span>
                                           </a>
                                        </div>
                                        <div class="et_pb_button_module_wrapper et_pb_button_2_wrapper et_pb_button_alignment_center et_pb_module ">
-                                          <a class="et_pb_button et_pb_button_2 et_animated et_hover_enabled et_pb_bg_layout_light" href="cosmetics/index.html" target="_blank">cosmetics </a>
+                                          <a class="et_pb_button et_pb_button_2 et_animated et_hover_enabled et_pb_bg_layout_light" href="" target="_blank">cosmetics </a>
                                        </div>
                                        <div class="et_pb_button_module_wrapper et_pb_button_3_wrapper et_pb_button_alignment_center et_pb_module ">
-                                          <a class="et_pb_button et_pb_button_3 et_pb_bg_layout_light" href="cosmetics/index.html">View All</a>
+                                          <a class="et_pb_button et_pb_button_3 et_pb_bg_layout_light" href="">Coming Soon</a>
                                        </div>
                                     </div>
                                     <div class="et_pb_column et_pb_column_1_3 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child">
                                        <div class="et_pb_module et_pb_image et_pb_image_3">
                                           <span class="et_pb_image_wrap has-box-shadow-overlay">
                                              <div class="box-shadow-overlay"></div>
-                                             <img width="500" height="500" src="wp-content/uploads/2021/10/vedas-cure-essential-oils.jpg" alt="" title="vedas cure essential oils" srcset="https://vedascure.in/wp-content/uploads/2021/10/vedas-cure-essential-oils.jpg 500w, https://vedascure.in/wp-content/uploads/2021/10/vedas-cure-essential-oils-480x480.jpg 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 500px, 100vw" class="wp-image-4126" />
+                                             <img width="500" height="500" src="wp-content/uploads/2021/10/oil.png" alt="" title="" class="wp-image-4126" />
                                           </span>
                                        </div>
-                                       <div class="et_pb_module et_pb_image et_pb_image_4">
-                                          <span class="et_pb_image_wrap "><img width="364" height="459" src="wp-content/uploads/2021/01/herbal-remedy_35.png" alt="" title="herbal-remedy_35" srcset="https://vedascure.in/wp-content/uploads/2021/01/herbal-remedy_35.png 364w, https://vedascure.in/wp-content/uploads/2021/01/herbal-remedy_35-64x81.png 64w, https://vedascure.in/wp-content/uploads/2021/01/herbal-remedy_35-238x300.png 238w" sizes="(max-width: 364px) 100vw, 364px" class="wp-image-1772" /></span>
-                                       </div>
+                                       
                                        <div class="et_pb_button_module_wrapper et_pb_button_4_wrapper et_pb_button_alignment_center et_pb_module ">
                                           <a class="et_pb_button et_pb_button_4 et_animated et_hover_enabled et_pb_bg_layout_light" href="cosmetics/index.html" target="_blank">essential oils</a>
                                        </div>

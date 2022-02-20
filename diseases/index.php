@@ -4179,7 +4179,7 @@
                                        <div class="et_pb_module et_pb_image et_pb_image_0">
                                           <span class="et_pb_image_wrap has-box-shadow-overlay">
                                              <div class="box-shadow-overlay"></div>
-                                             <img width="320" height="160" src="../wp-content/uploads/2021/10/2021-10-18-4.png" alt="" title="2021-10-18 (4)" srcset="https://vedascure.in/wp-content/uploads/2021/10/2021-10-18-4.png 320w, https://vedascure.in/wp-content/uploads/2021/10/2021-10-18-4-300x150.png 300w, https://vedascure.in/wp-content/uploads/2021/10/2021-10-18-4-64x32.png 64w" sizes="(max-width: 320px) 100vw, 320px" class="wp-image-4423" />
+                                             <img width="320" height="160" src="../wp-content/uploads/2021/10/2021-10-18-4.png" alt="" title=""  class="wp-image-4423" />
                                           </span>
                                        </div>
                                        <div class="et_pb_button_module_wrapper et_pb_button_0_wrapper  et_pb_module ">
